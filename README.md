@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="200" src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal12494&label=Profile%20views&color=0e75b6&style=flat" alt="kunal12494" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kunal12494&label=Profile%20views&color=0e75b6&style=flat](https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif)" alt="kunal12494" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
